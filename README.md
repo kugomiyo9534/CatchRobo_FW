@@ -4,18 +4,21 @@
 - 使用マイコン
   - Teensy4.1
 
-- 対応アクチュエータ
+- 対応アクチュエータ(予定)
   - Robomaster M2006/M3508/GM6020
   - Dynamixel
+  - (CyberGear)
   - (Robstride)
   - ブラシレスDC
-  - サーボ
+  - Feetech
+  - PWMサーボ
   
-- 対応センサ
-  - Robomaster内蔵センサ
-  - Dynamixel内蔵センサ
+- 対応センサ(予定)
+  - 各アクチュエータ内蔵センサ
   - AMTエンコーダ
-  - 9軸センサ
+  - レーザーセンサ
+  - (9軸センサ)
+  - スイッチ
 
 
 ## コミットメッセージ
