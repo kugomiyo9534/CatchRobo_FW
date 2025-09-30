@@ -20,6 +20,22 @@
   - (9軸センサ)
   - スイッチ
 
+## 実行
+本番
+```
+pio run -e production -t upload
+```
+
+テスト
+- RoboMster_test
+  ```
+  pio test -e RoboMaster_test
+  ```
+- udp_test
+  ```
+  pio test -e udp_test
+  ```
+
 
 ## コミットメッセージ
 | Prefix | 説明 |

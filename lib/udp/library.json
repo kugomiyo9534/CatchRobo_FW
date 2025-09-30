@@ -1,0 +1,10 @@
+{
+  "name": "udp",
+  "version": "1.0.0",
+  "description": "UDP communication library",
+  "build": {
+    "includeDir": "include",
+    "srcDir": "src",
+    "srcFilter": ["+<*>"]
+  }
+}

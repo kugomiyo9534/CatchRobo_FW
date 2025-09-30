@@ -1,0 +1,10 @@
+{
+  "name": "RoboMaster",
+  "version": "1.0.0",
+  "description": "RoboMaster communication library",
+  "build": {
+    "includeDir": "include",
+    "srcDir": "src",
+    "srcFilter": ["+<*>"]
+  }
+}
